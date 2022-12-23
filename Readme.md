@@ -20,6 +20,6 @@ I'm Serdar, a self-taught Data Analyst with an diverse academic background and e
 
 ### 🙌🏻 Connect with Me
 - 👨🏻‍💻 I’m looking to collaborate on any kind of Data Project (Cleaning, Visualization, Predictions, ...)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serdarsahbudak/) , [Email](mailto:serdarsahbudak@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sahbudakserdar/) , [Email](mailto:serdarsahbudak@gmail.com)
 
 
